@@ -1,0 +1,10 @@
+{
+  "hello": {
+    "prefix": "hello",
+    "body": "$BLOCK_COMMENT_START Hello World $BLOCK_COMMENT_END"
+  },
+  "submitRegistration": {
+    "prefix": "submitregistrationrequest",
+    "body": "const request = new SubmitRegistrationRequestBuilder()\n.setCompanyId(${1})\n.setRegistrationName(${2})\n.build();"
+  }
+}

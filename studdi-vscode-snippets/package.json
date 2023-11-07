@@ -15,7 +15,7 @@
     "snippets": [
       {
         "language": "typescript",
-        "path": "./src/snippets/nucleus-snippets.json"
+        "path": "./src/snippets/company-snippets.json"
       }
     ]
   },
